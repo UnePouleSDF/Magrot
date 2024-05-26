@@ -6,10 +6,10 @@ import pygame.sprite
 pygame.init()
 
 # Sprites
-IDLE = pygame.image.load("Asset\MIdle.png")
-RUN1 = pygame.image.load("Asset\MRun1.png")
-RUN2 = pygame.image.load("Asset\MRun2.png")
-JUMP = pygame.image.load("Asset\Msaut.png")
+IDLE = pygame.image.load("Magrot\Asset\MIdle.png")
+RUN1 = pygame.image.load("Magrot\Asset\MRun1.png")
+RUN2 = pygame.image.load("Magrot\Asset\MRun2.png")
+JUMP = pygame.image.load("Magrot\Asset\Msaut.png")
 # Constantes
 LARGEUR,HAUTEUR = 800,600
 FPS = 60
